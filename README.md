@@ -1,5 +1,5 @@
-# Under Constructions
-My Personal website 👋
+# 🚧 Under Constructions🚧
+👋 Welcome to my personal website
 
 BIO:  
 Sarah Khalife is an Enterprise Solutions Engineer at GitHub based out of San Francisco, CA. She works with enterprise customers in the West, and is passionate in creating an environment to help her customers implement best practices and improve their software development and delivery processes.
